@@ -1,8 +1,8 @@
-# Buscador de Pokémon con REACT
+# Buscador de Pokemon con REACT
 
 Este proyecto consiste en crear un buscador de Pokémon utilizando React. 
 
-Antes de empezar recuerda instalar todas las dependencias necesarias para el proyecto. Un npm i o creata tu propio pryecto React con vite.
+Antes de empezar recuerda instalar todas las dependencias necesarias para el proyecto. Un npm i o creata tu propio proyecto React con vite.
 
 # ¿Cómo empezar?
 Crear en App.jsx toda la aplicación. Una vez hecha y viendo que funciona correctamente, refactorizaremos el código y crearemos módulos funcionales.
